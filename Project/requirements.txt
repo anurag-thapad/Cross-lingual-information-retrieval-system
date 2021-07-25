@@ -1,4 +1,0 @@
-num2words
-google_trans_new
-jupyter-dash
-pyngrok
